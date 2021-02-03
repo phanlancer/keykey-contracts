@@ -90,10 +90,14 @@ At the protocol and smart contract level, KeyKey shares an identical interface t
 
 Some codes are from other projects including Uniswap/Yam/Compound/OpenZeppelin and are subjected to their licenses. The followings are the list of the contracts with rough explanation:
 
-- 🔒 **LockToken**: The token contract, with COMP/YAM voting functionality.
-- 🔑 **KeyMaster**: Deposit LPs tokens to farm LOCK.
+- 🔒 [**LockToken**](https://etherscan.io/address/0xB7bB4B08995b96Bb5E577c5B02A237a6c625c172): The token contract, with COMP/YAM voting functionality.
+- 🔑 [**KeyMaster**](https://etherscan.io/address/0x0e41986DB14eD784ff959c26D7FD7F2B7375F074): Deposit LPs tokens to farm LOCK.
 - 👨‍🔧 **LockSmith**: Collect revenues, convert to LOCK, and send to GateKeeper.
 - 💂 **GateKeeper**: Stake LOCK to earn more LOCK
 - 📈.👩‍💻 **Migrator**: Migrate MasterChef LP tokens from Uniswap to KeyKey.
 - 🏛 **GovernorAlpha** + **Timelock**: Governance from Compound.
 - 🦄 **UniswapV2**: UniswapV2 contracts with small modification for Migration.
+
+### Contributing
+
+If you want to contribute to KeyKey and make it better, your help is very welcome.
