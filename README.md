@@ -82,7 +82,7 @@ Remember, early Liquidity Providers who stake during the pre-mine will ultimatel
 |                             | Total Supply →                 |                  | 118472625         |
 |                             | % of supply held by Preminers→ |                  | 18.597            |
 
-### 🍣 Protocol Integrations
+### 🔑 Protocol Integrations
 
 At the protocol and smart contract level, KeyKey shares an identical interface to Uniswap. This means that if your protocol is currently compatible with Uniswap, it should be relatively simple to integrate with KeyKey. We will work with various DeFi and other ecosystem tools to start integrating KeyKey.
 
